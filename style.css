@@ -1,0 +1,34 @@
+*{
+    margin-top: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    text-align: center;
+}
+body{
+    display: block;
+}
+
+header {
+    text-align: center;
+}
+
+table{
+    border: 1px solid black;
+    width: 650px;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+thead{
+   background-color:darkorange;
+}
+
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+tr{
+    border: 1px solid black;
+}
